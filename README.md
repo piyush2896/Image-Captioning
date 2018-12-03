@@ -4,6 +4,7 @@ Hub mobilenet module for image features. These features are given as hidden stat
 The code here is inspired by @hvass-labs TensorFlow tutorials. But is changed a little for experimentation.
 
 ## Model
+
 |![Image Caption Model](./images/image-caption-model.png)|
 |:------------------------------------------------------:|
 | Image Caption using mobilenet v1 |
